@@ -27,3 +27,17 @@ We've used a few existing terms and conditions, in particular the Wordpress.com 
 Wordpress Terms of Service (CC BY-SA)
 http://en.wordpress.com/tos/
 
+And some other sites using derivatives of WP.com's Terms
+http://www.growstuff.org/policy/tos
+http://www.abodograph.com/legal/terms.html
+
+Cutting privacy polices down to a few simple icons is a great idea. We're going to use icons from Privacy Simplified.
+http://yale.edu/self/psindex.html
+
+And of course
+http://tosdr.org/index.html
+http://www.clearware.org/
+http://opennotice.org/about/
+http://www.commonterms.net/
+
+
