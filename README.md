@@ -5,13 +5,13 @@ Open terms and policies for Indiid.net.
 
 ## What is this?
 
-The legal aspects of setting up a web-based business are awkward. We want Indiid to be a good service to use and to be fair, but we also want to run a sustainable business that doesn't get destroyed by malicious litigation or abusive users.
+The legal aspects of setting up a web-based business are awkward. We want Indiid to be a good service to use and to be fair and transparent, but we also want to run a sustainable business that doesn't get destroyed by malicious litigation or abuse.
 
-Most of Indiid.net is not yet Open Source but it seems like a good idea to open our terms and policies straight away. Github will keep track of all revisions over time and handle suggestions. We'll consider pull-requests.
+Most of Indiid.net is not yet Open Source but it seems like a good idea to open our terms and policies straight away. Github will keep track of all revisions and handle suggestions. We'll definitely consider pull-requests, even from people who don't use Indiid.net.
 
 ## Terms, Warranty, etc.
 
-Yes, there are terms for our terms: We're not making any claims that these documents are fit for purpose at all. 
+(Yes, there are terms for our terms) We're not making any claims that these documents are fit for purpose at all. 
 
 These documents are a work-in-progress and may not be the current terms actually in use at Indiid.net.
 
