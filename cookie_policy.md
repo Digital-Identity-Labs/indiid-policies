@@ -14,13 +14,12 @@ You can view, manage and delete these small files using your web browser's setti
 
 This page describes how Indiid.net uses cookies, and what each cookie contains. Cookies are very important for Indiid.net - it is impossible to log in to Indiid.net without cookies.
 
-To learn more about cookies and how to manage them, visit AboutCookies.org. 
-
 ## Cookies used by Indiid
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ### Indiid Session Cookies
-A 'session' is a temporary record of whether you have logged in and how you are currently using Indiid.net. Your session information is stored on the Indiid.net servers, but to match your web browser to your session, we store a unique number for your session in a cookie. Indiid.net is made up of a different applications, so each has it's own session and session cookie.
+A 'session' is a temporary record of whether you have logged in and how you are currently using Indiid.net. Your session information is stored on the Indiid.net servers, but to match your web browser to your session, we store a unique number for your session in a cookie. Indiid.net is made up of a different applications, so each has its own session and session cookie.
+
+Without these cookies you would be unable to log in, as Indiid would immediately forget what you had done.
 
 <table>
   <tr>
@@ -63,6 +62,8 @@ A 'session' is a temporary record of whether you have logged in and how you are 
 ### Preferences
 Login preferences are stored in cookies - they are used before you have logged in so they can't be stored in your account settings or session.
 
+These cookies can be deleted without a problem - removing them will just clear the login settings and any remembered usernames, just as if you were logging in on a new PC.
+
 <table>
   <tr>
     <th>Name</th>
@@ -84,6 +85,8 @@ Login preferences are stored in cookies - they are used before you have logged i
 ### Data Cookies 
 Data cookies are used to temporarily store and share data between Indiid.net applications. They are very short-lived.
 
+You will probably never see these cookies. 
+
 <table>
   <tr>
     <th>Name</th>
@@ -99,7 +102,9 @@ Data cookies are used to temporarily store and share data between Indiid.net app
 
 ### Showing Fewer Irritating Messages
 
-EU law requires us to show you a message telling you that Indiid.net uses cookies. To avoid showing you this message every time you view a page we use another cookie.
+An EU law _requires_ us to show you a message telling you that Indiid.net uses cookies. To avoid showing you this message every time you view a page, we use another cookie.
+
+These cookies can be removed or blocked but you'll have to read various irritating messages on every page.
 
 <table>
   <tr>
@@ -112,6 +117,11 @@ EU law requires us to show you a message telling you that Indiid.net uses cookie
     <td>Indicates that a user has seen the EU cookie warning</td>
     <td>1 year</td>
   </tr>
+  <tr>
+    <td>browser_warning</td>
+    <td>Indicates that a user has seen the unsupported web browser warning</td>
+    <td>1 year</td>
+  </tr>
 </table>
 
 ## Cookies Used By Applications
@@ -119,6 +129,10 @@ EU law requires us to show you a message telling you that Indiid.net uses cookie
 Indiid.net uses a variety of other web-based applications and other software. These may use their own cookies.
 
 ### Shibboleth IDP Cookies
+
+Indiid.net uses Shibboleth Identity Provider software to handle secure single sign on (SSO). The Shibboleth IDP requires its own cookies.
+
+You will not be able to use Indiid.net without these cookies.
 
 <table>
   <tr>
@@ -140,29 +154,82 @@ Indiid.net uses a variety of other web-based applications and other software. Th
 
 ### Shibboleth SP Cookies
 
-...
+Websites using the Shibboleth Service Provider software to require logging in also require cookies.
+
+You will not be able to use Indiid.net without these cookies.
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Purpose</th>
+    <th>Expires</th>
+  </tr>
+  <tr>
+    <td>_shibsession_6542[...]</td>
+    <td>Contains the user's Shibboleth SP session (the parts of Indiid that require Shibboleth authentication)</td>
+    <td>seconds</td>
+  </tr>
+</table>
+
 
 ## Tracking Cookies and Third-Party Cookies
 
 ### Advertising and Tracking
 
-Indiid.net does not use any advertising or tracking cookies.
+Indiid.net does not use any advertising or tracking cookies, and never will.
+
+### Flash Cookies
+
+Adobe Flash, a web browser plugin to display games, videos and interactive software, can store its own cookies away from normal web browser cookies. Flash is often used to store hidden tracking cookies. Indiid.net does not use Flash and does not store any Flash cookies.
 
 ### Measuring Website Usage: Gauges
 
+We use the Gauges [Gauges](http://get.gaug.es) service to record some simple usage statistics for Indiid.net. Gauges stores a few cookies to count your page views on Indiid.net. It does not record any personal information, or track you across websites.
+
+These cookies are not required to use Indiid.net.
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Purpose</th>
+    <th>Expires</th>
+  </tr>
+  <tr>
+    <td>gauges_unique</td>
+    <td>Contains a unique number to help count page views.</td>
+    <td>Does not expire</td>
+  </tr>
+  <tr>
+    <td>gauges_unique_day</td>
+    <td>Contains a unique number to help count page views.</td>
+    <td>One day</td>
+  </tr>
+  <tr>
+    <td>gauges_unique_month</td>
+    <td>Contains a unique number to help count page views.</td>
+    <td>One month</td>
+  </tr>
+  <tr>
+    <td>gauges_unique_year</td>
+    <td>Contains a unique number to help count page views.</td>
+    <td>One year</td>
+  </tr>
+</table>
 
 ## Cookie Security
-All cookies created by Indiid.net itself and Shibboleth software are set to only be sent over HTTPS (an encrypted connection) and can't be accessed by Javascript. 
+All cookies created by Indiid.net itself and by the Shibboleth software can only be sent over HTTPS (an encrypted connection) and can't be accessed by Javascript. Gauges cookies are not as strictly controlled but don't contain any private information.
 
 ## How to manage cookies
-Your web browser will have setting that let you view and delete cookies, and choose which websites can store cookies.
+Your web browser will have settings that let you view and delete cookies, and choose which websites can store cookies.
 
-* http://aboutcookies.org/Default.aspx?page=1
+* [How to control cookies](http://aboutcookies.org/Default.aspx?page=1)
 
-Session cookies should be removed when your browser is closed, but many recent browsers no longer do this - they keep the cookie so that pages can be re-opened later.
+Session cookies _should_ be removed when your browser is closed, but many recent browsers no longer do this - they keep session cookies so that pages can be quickly re-opened later.
 
 ## More information
 
-* http://AboutCookies.Org
-* http://www.ico.gov.uk/
-* http://en.wikipedia.org/wiki/HTTP_cookie
+* [AboutCookies.Org](http://AboutCookies.Org)
+* [UK ICO: Cookies - advice for members of the public](http://www.ico.org.uk/for_the_public/topic_specific_guides/online/cookies)
+* [Wikipedia: HTTP Cookies](http://en.wikipedia.org/wiki/HTTP_cookie)
+
+This page was influenced by the excellent cookie policy page on [Gov.UK](https://www.gov.uk/support/cookies)
