@@ -29,6 +29,11 @@ A 'session' is a temporary record of whether you have logged in and how you are 
     <th>Expires</th>
   </tr>
   <tr>
+    <td>_indiid-info_session</td>
+    <td>Your session id number. Sessions store if you have logged in.</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
     <td>_indiid-login_session</td>
     <td>Your session id number. Sessions store if you have logged in.</td>
     <td>1 year</td>
