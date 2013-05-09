@@ -7,7 +7,8 @@
 * can cancel or change your subscription at any time
 * can request a refund within the first 14 days for unused accounts
 * can delete your account and your data
- 
+
+but you...
 * must enable cookies for this website
 * must also agree to the terms of access federations in order to access their services (optional)
 * must not abuse the services of any third-party websites accessed using Indiid.net
