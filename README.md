@@ -1,7 +1,7 @@
 Indiid Policies
 ===============
 
-Open terms and policies for Indiid.net.
+Open terms and policies for [Indiid.net](https://indiid.net/info).
 
 ## What is this?
 
