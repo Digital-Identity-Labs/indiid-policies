@@ -184,7 +184,7 @@ Adobe Flash, a web browser plugin to display games, videos and interactive softw
 
 ### Measuring Website Usage: Gauges
 
-We use the Gauges [Gauges](http://get.gaug.es) service to record some simple usage statistics for Indiid.net. Gauges stores a few cookies to count your page views on Indiid.net. It does not record any personal information, or track you across websites.
+We use the [Gauges](http://get.gaug.es) service to record some simple usage statistics for Indiid.net. Gauges stores a few cookies to count your page views on Indiid.net. It does not record any personal information, or track you across websites.
 
 These cookies are not required to use Indiid.net.
 
@@ -232,4 +232,4 @@ Session cookies _should_ be removed when your browser is closed, but many recent
 * [UK ICO: Cookies - advice for members of the public](http://www.ico.org.uk/for_the_public/topic_specific_guides/online/cookies)
 * [Wikipedia: HTTP Cookies](http://en.wikipedia.org/wiki/HTTP_cookie)
 
-This page was influenced by the excellent cookie policy page on [Gov.UK](https://www.gov.uk/support/cookies)
+This page was influenced by the excellent cookie policy page on [Gov.UK](https://www.gov.uk/support/cookies) and is available under a Creative Commons License on [Github](https://github.com/Digital-Identity-Labs/indiid-policies)

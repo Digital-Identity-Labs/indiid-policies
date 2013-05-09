@@ -17,27 +17,32 @@ These documents are a work-in-progress and may not be the current terms actually
 
 ## License
 
-Attribution-ShareAlike 3.0
-http://creativecommons.org/licenses/by-sa/3.0/
+These documents are licensed under Creative Commons [Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Sources
 
 We've used a few existing terms and conditions, in particular the Wordpress.com Terms of Service.
 
-Wordpress Terms of Service (CC BY-SA)
-http://en.wordpress.com/tos/
+* [Wordpress Terms of Service (CC BY-SA)](http://en.wordpress.com/tos/)
 
 And some other sites using derivatives of WP.com's Terms
-http://www.growstuff.org/policy/tos
-http://www.abodograph.com/legal/terms.html
+* http://www.growstuff.org/policy/tos
+* http://www.abodograph.com/legal/terms.html
 
 Cutting privacy polices down to a few simple icons is a great idea. We're going to use icons from Privacy Simplified.
-http://yale.edu/self/psindex.html
+
+* http://yale.edu/self/psindex.html
 
 And of course
-http://tosdr.org/index.html
-http://www.clearware.org/
-http://opennotice.org/about/
-http://www.commonterms.net/
+
+* http://tosdr.org/index.html
+* http://www.clearware.org/
+* http://opennotice.org/about/
+* http://www.commonterms.net/
+
+Cookie policy was influenced by
+* [Gov.UK Cookie Policy](https://www.gov.uk/support/cookies)
+* [AboutCookies.Org](http://AboutCookies.Org)
+* [UK ICO: Cookies - advice for members of the public](http://www.ico.org.uk/for_the_public/topic_specific_guides/online/cookies)
 
 
