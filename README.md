@@ -25,9 +25,15 @@ We've used a few existing terms and conditions, in particular the Wordpress.com 
 
 * [Wordpress Terms of Service (CC BY-SA)](http://en.wordpress.com/tos/)
 
+(Relatively little of this has survived in our current documents)
+
 And some other sites using derivatives of WP.com's Terms
 * http://www.growstuff.org/policy/tos
 * http://www.abodograph.com/legal/terms.html
+
+Github's own Terms Of Service are remarkably clear and well presented and led us to consider a less verbose format
+
+* https://help.github.com/articles/github-terms-of-service
 
 Cutting privacy polices down to a few simple icons is a great idea. We're going to use icons from Privacy Simplified.
 
