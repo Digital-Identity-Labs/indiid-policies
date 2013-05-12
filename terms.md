@@ -1,4 +1,3 @@
-# Summary
 
 ## You...
 (the customer)
@@ -13,7 +12,8 @@
 * may create more than one account by subscribing more than once
 
 but you...
-* must be human. We don't allow registration by bots.  
+* must be human. We don't allow registration by bots.
+* must have a valid, active, paid subscription plan  
 * must enable cookies for this website
 * must also agree to the terms of access federations in order to access their services (optional)
 * must not abuse the services of any third-party websites accessed using Indiid.net
@@ -47,7 +47,7 @@ close your Indiid.net account (it depends on the third-party service)
 * are not responsible for the content or terms of sites accessed using Indiid.net
 * will give you two months notice before changing terms
 * will give you three months notice before changing existing subscription fees
-* are registered under the UK's Data Protection Act
+* are registered under the UK's Data Protection Act 1998
 * will respond to Data Protection Requests for free if made online using a PGP key or certificate
 * do not handle or store credit card information ourselves
 * do not host personal data outside the EU
@@ -63,7 +63,7 @@ close your Indiid.net account (it depends on the third-party service)
 * are not responsible for authentication via third-party authentication services
 * only send web pages over HTTPS (encrypted)
 * cannot guarantee 100% security, uptime or compatibility, but we will do our best
-* can cancel, restrict or suspend your account immediately if notified of abuse
+* can cancel, restrict or suspend your account immediately if notified of abuse, without refund.
 * will not allow anyone else to use your username for two years after you cancel
 * will not pass your data to the purchasing company if Indiid.net is sold, without asking you first
 * do not plan to sell Indiid.net - we aim to build a sustainable long-term business
@@ -72,4 +72,3 @@ close your Indiid.net account (it depends on the third-party service)
 * will not make twee videos advertising Indiid.net and won't use stock photos of improbable models.
 * thank you for reading this.
 
-Questions about these terms should be sent to info@digitalidentitylabs.com
