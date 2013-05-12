@@ -63,7 +63,6 @@ close your Indiid.net account (it depends on the third-party service)
 * encrypt your passwords (using Bcrypt or an equivalent)
 * are not responsible for authentication via third-party authentication services
 * only send web pages over HTTPS (encrypted)
-
 * can cancel, restrict or suspend your account immediately if notified of abuse, without refund.
 * will not allow anyone else to use your username for two years after you cancel
 * will not pass your data to the purchasing company if Indiid.net is sold, without asking you first
