@@ -1,17 +1,18 @@
+# Terms of Use
 
 ## You...
 (the customer)
 
+* choose what data is shared with third parties
 * keep full copyright to your content
 * can use pseudonyms or be anonymous
-* choose what data is shared with third parties
 * can cancel or change your subscription at any time
 * can request a refund within the first 14 days for unused accounts
 * can delete your account and your data
 * can recover a cancelled account by re-subscribing
 * may create more than one account by subscribing more than once
 
-however, you...
+### however, you...
 
 * must be human. We don't allow registration, login or use by bots or scripts
 * must have a valid, active, paid subscription plan  
