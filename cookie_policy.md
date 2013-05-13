@@ -21,7 +21,7 @@ A 'session' is a temporary record of whether you have logged in and how you are 
 
 Without these cookies you would be unable to log in, as Indiid would immediately forget what you had done.
 
-<table>
+<table class="table table-bordered table-striped">
   <tr>
     <th>Name</th>
     <th>Purpose</th>
@@ -64,7 +64,7 @@ Login preferences are stored in cookies - they are used before you have logged i
 
 These cookies can be deleted without a problem - removing them will just clear the login settings and any remembered usernames, just as if you were logging in on a new PC.
 
-<table>
+<table class="table table-bordered table-striped">
   <tr>
     <th>Name</th>
     <th>Purpose</th>
@@ -87,7 +87,7 @@ Data cookies are used to temporarily store and share data between Indiid.net app
 
 You will probably never see these cookies. 
 
-<table>
+<table class="table table-bordered table-striped">
   <tr>
     <th>Name</th>
     <th>Purpose</th>
@@ -106,7 +106,7 @@ An EU law _requires_ us to show you a message telling you that Indiid.net uses c
 
 These cookies can be removed or blocked but you'll have to read various irritating messages on every page.
 
-<table>
+<table class="table table-bordered table-striped">
   <tr>
     <th>Name</th>
     <th>Purpose</th>
@@ -134,7 +134,7 @@ Indiid.net uses Shibboleth Identity Provider software to handle secure single si
 
 You will not be able to use Indiid.net without these cookies.
 
-<table>
+<table class="table table-bordered table-striped">
   <tr>
     <th>Name</th>
     <th>Purpose</th>
@@ -158,7 +158,7 @@ Websites using the Shibboleth Service Provider software to require logging in al
 
 You will not be able to use Indiid.net without these cookies.
 
-<table>
+<table class="table table-bordered table-striped">
   <tr>
     <th>Name</th>
     <th>Purpose</th>
@@ -188,7 +188,7 @@ We use the [Gauges](http://get.gaug.es) service to record some simple usage stat
 
 These cookies are not required to use Indiid.net.
 
-<table>
+<table class="table table-bordered table-striped">
   <tr>
     <th>Name</th>
     <th>Purpose</th>
