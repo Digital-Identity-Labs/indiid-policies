@@ -158,14 +158,4 @@ Our privacy policy will change over time. We expect most of these changes to inv
 
 When changes occur we will notify all customers.
 
-### Feedback and Suggestions
-
-To keep our terms as open and accessible as possible we intend to make working copies of them available on Github. We encourage  others to fork them (they are Creative Commons licensed) and suggest changes via pull requests.
-
-### More information
-
-* Terms And Conditions
-* Cookie Policy
-* Data Security Policy
-
 

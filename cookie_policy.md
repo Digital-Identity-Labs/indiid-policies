@@ -232,4 +232,4 @@ Session cookies _should_ be removed when your browser is closed, but many recent
 * [UK ICO: Cookies - advice for members of the public](http://www.ico.org.uk/for_the_public/topic_specific_guides/online/cookies)
 * [Wikipedia: HTTP Cookies](http://en.wikipedia.org/wiki/HTTP_cookie)
 
-This page was influenced by the excellent cookie policy page on [Gov.UK](https://www.gov.uk/support/cookies) and is available under a Creative Commons License on [Github](https://github.com/Digital-Identity-Labs/indiid-policies)
+This page was influenced by the excellent cookie policy page on [Gov.UK](https://www.gov.uk/support/cookies)
