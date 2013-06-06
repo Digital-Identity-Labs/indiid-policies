@@ -39,6 +39,10 @@ Cutting privacy polices down to a few simple icons is a great idea. We're going 
 
 * http://yale.edu/self/psindex.html
 
+Some interesting comments on the feasibility of Terms of Use in Europe:
+
+* [BBC News: Is small print in online contracts enforceable?](http://www.bbc.co.uk/news/technology-22772321)
+
 And of course
 
 * http://tosdr.org/index.html
